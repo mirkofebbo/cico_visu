@@ -1,0 +1,8 @@
+[package]
+name = "cico_visu"
+authors = ["mirko febbo <mirkofebbo@gmail.com>"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nannou = "0.20.0"
